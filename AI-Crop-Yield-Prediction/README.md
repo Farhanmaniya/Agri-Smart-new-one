@@ -92,7 +92,7 @@ Market Data APIs - Agricultural commodity prices
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AI-Crop-Yield-Prediction.git
+   git clone https://github.com/Farhanmaniya/Agri-Smart-new-one/AI-Crop-Yield-Prediction.git
    cd AI-Crop-Yield-Prediction/agrismart
    ```
 
@@ -316,9 +316,9 @@ copies or substantial portions of the Software.
 
 ## 📞 Support & Contact
 
-- **Documentation**: [Project Wiki](https://github.com/yourusername/AI-Crop-Yield-Prediction/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AI-Crop-Yield-Prediction/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/AI-Crop-Yield-Prediction/discussions)
+- **Documentation**: [Project Wiki](https://github.com/Farhanmaniya/Agri-Smart-new-one/AI-Crop-Yield-Prediction/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Farhanmaniya/Agri-Smart-new-one/AI-Crop-Yield-Prediction/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Farhanmaniya/Agri-Smart-new-one/AI-Crop-Yield-Prediction/discussions)
 
 ## 🔮 Future Roadmap
 
