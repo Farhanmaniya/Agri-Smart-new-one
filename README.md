@@ -1,4 +1,4 @@
-# 🌾 AgriSmart - AI-Powered Crop Yield Prediction Platform
+# 🌾 AgriVision - AI-Powered Crop Yield Prediction Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.0-blue.svg)](https://reactjs.org/)
